@@ -1,4 +1,4 @@
-package BusinessRule;
+package Services;
 
 public class BusinessRuleService {
 }

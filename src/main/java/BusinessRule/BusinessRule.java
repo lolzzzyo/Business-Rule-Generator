@@ -1,7 +1,7 @@
 package BusinessRule;
 
-import Database.DatabaseService;
-import Generate.GenerateService;
+import Services.DatabaseService;
+import Services.GenerateService;
 
 import java.util.List;
 
@@ -23,7 +23,4 @@ public class BusinessRule {
         this.description = description;
         this.status = "inactive";
     }
-
-
-
 }

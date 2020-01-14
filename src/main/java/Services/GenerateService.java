@@ -1,4 +1,4 @@
-package Generate;
+package Services;
 
 public class GenerateService {
 }

@@ -1,4 +1,4 @@
-package Database;
+package Services;
 
 public class DatabaseService {
 }
